@@ -42,9 +42,9 @@ em seu navegador.
 
 
 lista-de-tarefas/
-│
-├── index.html       # Página principal
-├── style.css        # Estilos da página
+│<br>
+├── index.html       # Página principal <br>
+├── style.css        # Estilos da página <br>
 └── script.js        # Lógica do aplicativo
 
 
